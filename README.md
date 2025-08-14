@@ -40,22 +40,4 @@
 3. **Temporal Patterns**: Minimal rush hour impact on base fares
 4. **Model Assumptions**: Residuals show normal distribution and homoscedasticity
 
-## 📁 Repository Structure
-NYC-Taxi-Fare-Prediction/
-│
-├── 📊 notebooks/
-│ └── NYC_Taxi_Fare_Prediction_MLR.ipynb # Main analysis notebook
-│
-├── 📈 visualizations/
-│ ├── model_performance.png # Actual vs Predicted plot
-│ ├── residual_analysis.png # Residual diagnostics
-│ └── feature_importance.png # Coefficient analysis
-│
-├── 📋 reports/
-│ ├── Executive_Summary.pdf # Business stakeholder summary
-│ └── Technical_Report.md # Detailed methodology
-│
-├── 🔧 src/
-│ └── fare_predictor.py # Production-ready model class
-│
-└── 📄 README.md # This file
+
